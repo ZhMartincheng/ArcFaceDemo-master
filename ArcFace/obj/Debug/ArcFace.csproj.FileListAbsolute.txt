@@ -1,0 +1,5 @@
+D:\Project\人脸识别\ArcFaceDemo-master\ArcFaceDemo-master\ArcFace\obj\Debug\ArcFace.csprojResolveAssemblyReference.cache
+D:\Project\人脸识别\ArcFaceDemo-master\ArcFaceDemo-master\ArcFace\bin\Debug\ArcFace.dll
+D:\Project\人脸识别\ArcFaceDemo-master\ArcFaceDemo-master\ArcFace\bin\Debug\ArcFace.pdb
+D:\Project\人脸识别\ArcFaceDemo-master\ArcFaceDemo-master\ArcFace\obj\Debug\ArcFace.dll
+D:\Project\人脸识别\ArcFaceDemo-master\ArcFaceDemo-master\ArcFace\obj\Debug\ArcFace.pdb
